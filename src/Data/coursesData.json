@@ -1,0 +1,38 @@
+[
+  {
+    "name": "CHE211a - Fluid Mechanics And its Applicaion",
+    "tags": ["Chemical Engineering", "First Year", "Second Semester"],
+    "instructor": "Prof Ramakant Verma",
+    "progress": 35
+  },
+  {
+    "name": "CHE221a - Chemical Engineering Thermodynamics",
+    "tags": ["Chemical Engineering", "First Year", "Second Semester"],
+    "instructor": "Prof Ramakant Verma",
+    "progress": 35
+  },
+  {
+    "name": "CHE661a - Analytical & Material Characterization",
+    "tags": ["Chemical Engineering", "First Year", "Second Semester"],
+    "instructor": "Prof Ravi Joshi",
+    "progress": 60
+  },
+  {
+    "name": "CHE211a - Fluid Mechanics And its Applicaion",
+    "tags": ["Chemical Engineering", "First Year", "Second Semester"],
+    "instructor": "Prof Ramakant Verma",
+    "progress": 40
+  },
+  {
+    "name": "CHE613a - Fluid Mechanics And its Applicaion",
+    "tags": ["Chemical Engineering", "First Year", "Second Semester"],
+    "instructor": "Prof Suraj Agarwal",
+    "progress": 40
+  },
+  {
+    "name": "CHE212a - Introducation To Molecular Simulations",
+    "tags": ["Chemical Engineering", "First Year", "Second Semester"],
+    "instructor": "Prof Suraj Agarwal",
+    "progress": 35
+  }
+]

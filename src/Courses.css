@@ -1,0 +1,31 @@
+.courses-container {
+  padding-left: 200px;
+  display: flex;
+  flex-flow: wrap;
+}
+
+.myCourses {
+  padding-left: 50px;
+}
+
+.latestActivity-container {
+  padding-left: 50px;
+}
+
+.courses-container h4 {
+  color: #2d6a9a;
+}
+
+@media only screen and (max-width: 450px) {
+  .courses-container {
+    padding-left: 0;
+  }
+
+  .myCourses {
+    padding-left: 15px;
+  }
+
+  .latestActivity-container {
+    padding-left: 15px;
+  }
+}

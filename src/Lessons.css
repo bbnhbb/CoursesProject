@@ -1,0 +1,32 @@
+.lesson-list {
+  width: 470px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.lesson-container {
+  width: 215px;
+  margin: 5px 5px 5px 5px;
+  padding: 5px;
+  background-color: #f5f5f5;
+}
+
+.lesson-headding {
+  display: flex;
+  flex-direction: row;
+  font-size: 10px;
+}
+
+.lesson-icon {
+  font-size: 15px;
+  margin-right: 8px;
+}
+
+.lesson-headding .lesson-tag {
+  color: gray;
+}
+
+.lesson-icon {
+  color: #2d6a9a;
+}

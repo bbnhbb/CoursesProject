@@ -1,0 +1,56 @@
+[
+  {
+    "name": "CHE613a - Transport Phenomena",
+    "tags": ["Chemical Engineering", "First Year", "Second Semester"],
+    "instructor": "Prof Suraj Agarwal",
+    "progress": 40,
+    "favorite": true,
+    "lessons": [
+      {
+        "name": "Lesson 5 : Law of Thermodynamics - 1",
+        "tags": ["Chemical Engineering", "First Year", "Second Semester"],
+        "parentName": "CHE613a - Transport Phenomena",
+        "url": "https://www.youtube.com/embed/RIMor4kN7rY"
+      },
+      {
+        "name": "Lesson 5 : Law of Thermodynamics - 2",
+        "tags": ["Chemical Engineering", "First Year", "Second Semester"],
+        "parentName": "CHE613a - Transport Phenomena",
+        "url": "https://www.youtube.com/embed/MoMq_chMFbQ"
+      },
+      {
+        "name": "Lesson 5 : Law of Thermodynamicsdfadsf sdfdsafdsaf safs - 3",
+        "tags": ["Chemical Engineering", "First Year", "Second Semester"],
+        "parentName": "CHE613a - Transport Phenomena",
+        "url": "https://www.youtube.com/embed/HV17sLgHXSY"
+      }
+    ]
+  },
+  {
+    "name": "CHE212a - Introducation To Molecular Simulations",
+    "tags": ["Chemical Engineering", "First Year", "Second Semester"],
+    "instructor": "Prof Suraj Agarwal",
+    "progress": 35,
+    "favorite": true,
+    "lessons": [
+      {
+        "name": "Lesson 5 : Law of Thermodynamics - 1",
+        "tags": ["Chemical Engineering", "First Year", "Second Semester"],
+        "parentName": "CHE613a - Transport Phenomena",
+        "url": "https://www.youtube.com/embed/RIMor4kN7rY"
+      },
+      {
+        "name": "Lesson 5 : Law of Thermodynamics - 2",
+        "tags": ["Chemical Engineering", "First Year", "Second Semester"],
+        "parentName": "CHE613a - Transport Phenomena",
+        "url": "https://www.youtube.com/embed/MoMq_chMFbQ"
+      },
+      {
+        "name": "Lesson 5 : Law of Thermodynamics - 3",
+        "tags": ["Chemical Engineering", "First Year", "Second Semester"],
+        "parentName": "CHE613a - Transport Phenomena",
+        "url": "https://www.youtube.com/embed/HV17sLgHXSY"
+      }
+    ]
+  }
+]

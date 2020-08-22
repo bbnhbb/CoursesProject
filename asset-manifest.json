@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.90bc6fb6.chunk.css",
-    "main.js": "/static/js/main.3556ee8c.chunk.js",
-    "main.js.map": "/static/js/main.3556ee8c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dd85382f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dd85382f.js.map",
-    "static/js/2.cc9dcc2b.chunk.js": "/static/js/2.cc9dcc2b.chunk.js",
-    "static/js/2.cc9dcc2b.chunk.js.map": "/static/js/2.cc9dcc2b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c9c952f9ac9436d44a8bcfc48ae9529b.js": "/precache-manifest.c9c952f9ac9436d44a8bcfc48ae9529b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.90bc6fb6.chunk.css.map": "/static/css/main.90bc6fb6.chunk.css.map",
-    "static/js/2.cc9dcc2b.chunk.js.LICENSE.txt": "/static/js/2.cc9dcc2b.chunk.js.LICENSE.txt",
-    "static/media/close.svg": "/static/media/close.cad70081.svg",
-    "static/media/open-menu.svg": "/static/media/open-menu.4aaf92d0.svg"
+    "main.css": "/CoursesProject/static/css/main.90bc6fb6.chunk.css",
+    "main.js": "/CoursesProject/static/js/main.3bead291.chunk.js",
+    "main.js.map": "/CoursesProject/static/js/main.3bead291.chunk.js.map",
+    "runtime-main.js": "/CoursesProject/static/js/runtime-main.546b9e3a.js",
+    "runtime-main.js.map": "/CoursesProject/static/js/runtime-main.546b9e3a.js.map",
+    "static/js/2.cc9dcc2b.chunk.js": "/CoursesProject/static/js/2.cc9dcc2b.chunk.js",
+    "static/js/2.cc9dcc2b.chunk.js.map": "/CoursesProject/static/js/2.cc9dcc2b.chunk.js.map",
+    "index.html": "/CoursesProject/index.html",
+    "precache-manifest.ad997b7115b4a977a32e397bc49c6c57.js": "/CoursesProject/precache-manifest.ad997b7115b4a977a32e397bc49c6c57.js",
+    "service-worker.js": "/CoursesProject/service-worker.js",
+    "static/css/main.90bc6fb6.chunk.css.map": "/CoursesProject/static/css/main.90bc6fb6.chunk.css.map",
+    "static/js/2.cc9dcc2b.chunk.js.LICENSE.txt": "/CoursesProject/static/js/2.cc9dcc2b.chunk.js.LICENSE.txt",
+    "static/media/close.svg": "/CoursesProject/static/media/close.cad70081.svg",
+    "static/media/open-menu.svg": "/CoursesProject/static/media/open-menu.4aaf92d0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd85382f.js",
+    "static/js/runtime-main.546b9e3a.js",
     "static/js/2.cc9dcc2b.chunk.js",
     "static/css/main.90bc6fb6.chunk.css",
-    "static/js/main.3556ee8c.chunk.js"
+    "static/js/main.3bead291.chunk.js"
   ]
 }

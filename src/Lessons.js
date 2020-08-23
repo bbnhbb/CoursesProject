@@ -12,8 +12,6 @@ function Lessons({ lessons }) {
         <div className="lesson-container">
           <div className="lesson-vedio">
             <iframe
-              width="210"
-              height="130"
               src={url}
               frameborder="0"
               allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"

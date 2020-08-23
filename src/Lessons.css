@@ -30,3 +30,28 @@
 .lesson-icon {
   color: #2d6a9a;
 }
+
+.lesson-vedio iframe {
+  width: 210px;
+  height: 130px;
+}
+
+@media only screen and (max-width: 450px) {
+  .lesson-list {
+    width: 92vw;
+  }
+
+  .lesson-container {
+    width: 92vw;
+  }
+
+  .lesson-vedio iframe {
+    width: 87vw;
+    height: 200px;
+  }
+
+  .lesson-headding {
+    padding-top: 6px;
+    font-size: 16px;
+  }
+}

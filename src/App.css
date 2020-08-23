@@ -84,6 +84,7 @@
     background-color: #f6f6f7;
     box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.25);
     position: fixed;
+    z-index: 1070;
   }
 
   .mobileNavbar-togglebar {
@@ -127,6 +128,19 @@
     overflow: scroll;
   }
 
+  .overlay-drawer {
+    position: fixed;
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1060;
+  }
+
   .sidebar-close {
     display: none;
   }
@@ -135,10 +149,11 @@
     position: fixed;
     left: 75%;
     top: 13vh;
+    z-index: 1070;
   }
 
-  .sidebar-cross img {
-    width: 40px;
-    height: 35px;
+  .sidebar-cross svg {
+    z-index: 1070;
+    color: white;
   }
 }
